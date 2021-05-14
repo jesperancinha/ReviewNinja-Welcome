@@ -13,11 +13,11 @@ Line notes have flags to indicate what is going on in the code,
 too. Flags are as follows:
 
 `['!fix', '!resolve']`
-- Something in the code needs to be reviewed and fixed before
+-   Something in the code needs to be reviewed and fixed before
   the pull request is merged.
 
 `['!fixed', '!resolved', '!completed']`
-- The issue has been resolved.
+-   The issue has been resolved.
 
 To add a flag simply leave a comment with your desired flag. For
 convenience we also have a dropdown menu to add these comments
